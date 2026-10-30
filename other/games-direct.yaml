@@ -168,5 +168,8 @@ payload:
   # MIMESIS
   - PROCESS-NAME,MIMESIS.exe
 
+  # GeoGuessr
+  - PROCESS-NAME,GeoGuessr.exe
+
   # AstrumPlay
   - PROCESS-NAME-REGEX,(?i)^AstrumPlay
