@@ -1,7 +1,7 @@
 payload:
   # Unreal Engine games except:
   # The Outlast Trials
-  - PROCESS-NAME-REGEX,(?i)^(?!.*TOTClient).*Win64-Shipping.*
+  - AND,((PROCESS-NAME-REGEX,(?i).*Win64-Shipping.*),(NOT,((PROCESS-NAME-REGEX,(?i)^TOTClient-Win64-Shipping\.exe$))))
 
   # Aimbeast
   - PROCESS-NAME-REGEX,Aimbeast.* 
