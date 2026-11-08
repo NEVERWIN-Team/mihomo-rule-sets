@@ -172,5 +172,11 @@ payload:
   # GeoGuessr
   - PROCESS-NAME,GeoGuessr.exe
 
+  # Steam
+  - PROCESS-NAME,steam.exe
+  - PROCESS-NAME,steamwebhelper.exe
+  - PROCESS-NAME,steamservice.exe
+  - PROCESS-NAME,steamerrorreporter.exe
+
   # AstrumPlay
   - PROCESS-NAME-REGEX,(?i)^AstrumPlay
