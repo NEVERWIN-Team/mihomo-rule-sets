@@ -178,5 +178,9 @@ payload:
   - PROCESS-NAME,steamservice.exe
   - PROCESS-NAME,steamerrorreporter.exe
 
+  # Bluestacks
+  - PROCESS-NAME,HD-Player.exe
+  - PROCESS-NAME,BlueStacksServices.exe
+
   # AstrumPlay
   - PROCESS-NAME-REGEX,(?i)^AstrumPlay
