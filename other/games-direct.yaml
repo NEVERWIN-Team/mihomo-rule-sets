@@ -177,6 +177,9 @@ payload:
   - PROCESS-NAME,steamservice.exe
   - PROCESS-NAME,steamerrorreporter.exe
 
+  # Epic Games
+  - PROCESS-NAME,EpicGamesLauncher.exe
+
   # # Bluestacks
   # - PROCESS-NAME,HD-Player.exe
   # - PROCESS-NAME,BlueStacksServices.exe
