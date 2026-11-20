@@ -51,6 +51,7 @@ payload:
 
   # Deadlock
   - PROCESS-NAME,deadlock.exe
+  - PROCESS-NAME,wineserver
 
   # GTA V (online + other multiplayer solutions)
   - PROCESS-NAME-REGEX,.*GTA5.* # GTA V / Online
