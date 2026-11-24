@@ -180,6 +180,10 @@ payload:
 
   # Epic Games
   - PROCESS-NAME,EpicGamesLauncher.exe
+  - PROCESS-NAME,msedgewebview2.exe
+
+  # GearUP
+  - PROCESS-NAME,gearup_booster.exe
 
   # # Bluestacks
   # - PROCESS-NAME,HD-Player.exe
