@@ -190,7 +190,7 @@ payload:
   # - PROCESS-NAME,BlueStacksServices.exe
 
   # Adobe Substance 3D Painter
-  - PROCESS-NAME,Adobe Substance 3D Painter.exe
+  - 'PROCESS-NAME,Adobe Substance 3D Painter.exe'
 
   # AstrumPlay
   - PROCESS-NAME-REGEX,(?i)^AstrumPlay
